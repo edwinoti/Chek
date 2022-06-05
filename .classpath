@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/ant-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/cglib-nodep-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-io-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-lang-20030203.000129.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-net-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/commons-text-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/hamcrest-core-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/hamcrest-library-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/htmlunit-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/htmlunit-core-js-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/htmlunit-cssparser-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/httpmime-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/ini4j-0.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jetty-client-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jetty-http-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jetty-io-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jetty-util-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jetty-websocket-8.0.0.rc0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jna-platform-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/json-20210307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/neko-htmlunit-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/netty-3.10.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/ngwebdriver-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/phantomjsdriver-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-excelant-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/protobuf-java-4.0.0-rc-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/protractor-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/salvation2-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-server-standalone-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/websocket-api-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/websocket-client-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/websocket-common-9.4.43.v20210629.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xercesImpl-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xml-apis-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edwin.o/Documents/selenium_java_stuff/clean/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

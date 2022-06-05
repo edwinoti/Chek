@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)" preserve-order="true">
+    <classes>
+      <class name="com.chek.pagesTest.AutenticationPageTest">
+        <methods>
+          <include name="testNonRegisteredUserLogin_emailNoPassword_clickButtonSignIn"/>
+          <include name="testNonRegisteredUserLogin_noEmailAndPassword_clickButtonSignIn"/>
+          <include name="setUp"/>
+          <include name="testAutenticationPage_signIn_sucessfuly"/>
+          <include name="testNonRegisteredUserLogin_invalidEmailAndPassword_clickButtonSignIn"/>
+        </methods>
+      </class> <!-- com.chek.pagesTest.AutenticationPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
